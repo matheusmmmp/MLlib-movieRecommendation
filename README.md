@@ -39,7 +39,7 @@ This notebook was developed within the databricks environment [DataBricks](https
 
 ---
 
-## 🛠Techs
+## 🛠Tech Stacks
 
 The following tools were used in the development of the project:
 
