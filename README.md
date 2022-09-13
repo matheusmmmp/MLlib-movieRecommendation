@@ -1,5 +1,5 @@
 <h1 align="center">
-   💻 <a href="#"> Movie Recommendation </a>
+   🎥 <a href="#"> Movie Recommendation </a>
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <h4 align="center"> 
-	 Status: Concluído🚀
+	 Status: Conclude🚀
 </h4>
 
 <p align="center">
