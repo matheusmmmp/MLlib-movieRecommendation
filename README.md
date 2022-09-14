@@ -1,9 +1,9 @@
 <h1 align="center">
-   🎥 <a href="#"> Movie Recommendation </a>
+   🎥 <a href="#"> ALS Movie Recommendation </a>
 </h1>
 
 <h3 align="center">
-  A project to test knowledge with PySpark MLlib
+  A project to test knowledge with PySpark MLlib using ALS Recommendation algorithm
 </h3>
 
 <h4 align="center"> 
@@ -13,14 +13,14 @@
 <p align="center">
  <a href="#about">About</a> •
  <a href="#workflow-stages">Workflow Stages</a> •
- <a href="#techs">Techs</a> • 
+ <a href="#tech-stacks">Tech Stacks</a> • 
  <a href="#license">License</a>
 </p>
 
 
 ## ✎About
 
-This notebook is a form to practice my knowledge in data science, mostly with the MLlib library in PySpark. It walks us through a workflow for solving a problem with a movie recommendation algorithm.
+This notebook is a form to practice my knowledge in data science, mostly with the **MLlib library in PySpark**. It walks us through a workflow for solving a problem with a **ALS**(Alternation Least Squarte) movie recommendation algorithm.
 
 The main purpose of this notebook is to serve as a step-by-step workflow guide, allowing me to review this notebook myself and serve as a study for future cases.
 
@@ -46,6 +46,7 @@ The following tools were used in the development of the project:
 -   [Python](https://www.python.org/)
 -   [Spark](https://spark.apache.org/docs/latest/api/python/)
 -   [MLlib](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ml.html)
+-   [ALS](https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-2-alternating-least-square-als-matrix-4a76c58714a1)
 
 ---
 
